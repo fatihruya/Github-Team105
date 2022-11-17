@@ -12,8 +12,8 @@ public class A01 {
         System.out.println("Fatih branch");
         System.out.println("Fatih branch again");
 
-        System.out.println("15. satir Fatih branch");
-                System.out.println("16. satir colleague branch - github");
+        System.out.println("15. satir Fatih branch - local");
+                System.out.println("16. satir colleague branch - remote");
 
 
 
